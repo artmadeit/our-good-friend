@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# Our Good Friend 😄
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A management system
+
+TODO:
+- create events
+- create recurrent events
+- login/register with facebook, google
+- attend to an event
+- 
+
+ROADMAP:
+- automatic attend to an event based on a camera
+- attend by zoom or meet
+- 
+
+
+Reportes completos en todas la áreas. Cada reporte se puede exportar a PDF
+Gráficas estadísticas de la asistencia a grupos, de asistencia a escuela, de ingresos, y más.
+Envío de Boletines por correo electrónico por grupos de personas
+Maneja múltiples Iglesias en un solo sistema. Útil para quienes administran varias iglesias.
+Seguimiento al crecimiento espiritual de los miembros. Sobre una lista de pasos establecidos, a cada persona se le registra su avance.
+Cuenta con módulo de seguridad para dar privilegios y restringir accesos.
+trabajar colaborativamente para el envío de reportes de asistencia a grupos, a escuela, y el administrador de los miembros enviarles a todos la lista mas actualizada de Membresía
+
+
+https://www.planningcenter.com/
+https://auth0.com/es
+
 
 ## Available Scripts
 
